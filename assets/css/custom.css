@@ -1,0 +1,37 @@
+.web-bg-primary {
+  background-color: #0c2e8a !important;
+  color: #FFFFFF;
+}
+
+.web-bg-secondary {
+  background-color: #50d8af !important;
+  color: #FFFFFF;
+}
+
+.web-text-primary {
+  color: #0c2e8a !important;
+}
+
+.web-text-secondary {
+  color: #50d8af !important;
+}
+
+.banner-img-1 {
+  background-image: url("../image/carousel/1.jpg");
+  height: 100vh;
+}
+
+.banner-img-2 {
+  background-image: url("../image/carousel/2.jpg");
+  height: 100vh;
+}
+
+.banner-img-3 {
+  background-image: url("../image/carousel/5.jpg");
+  height: 100vh;
+}
+
+.client-img{
+    width: 150px;
+    height: auto;
+}
